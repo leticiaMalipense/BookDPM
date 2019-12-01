@@ -60,8 +60,14 @@ public class MainActivity extends AppCompatActivity {
         books.add(new Book("O Coração das Trevas", "Joseph Conrad", 1902,
                 "Novela, Roman à clef",""));
 
+        books.add(new Book("Dom Casmurro", "Machado de Assis", 1899,
+                "Romance,Realismo psicológico",""));
+
         books.add(new Book("O Príncipe", "Nicolau Maquiavel", 1532,
                 "Não ficção, Ficção Política",""));
+
+        books.add(new Book("Um Estudo em Vermelho", "Arthur Conan Doyle", 1887,
+                "Mistério, Ficção policial",""));
 
         books.add(new Book("Os Sofrimentos do Jovem Werther", "Johann Wolfgang von Goethe", 1986,
                 "Romance epistolar, Ficção, Livro didático",""));
