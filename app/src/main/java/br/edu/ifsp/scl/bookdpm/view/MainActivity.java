@@ -46,31 +46,31 @@ public class MainActivity extends AppCompatActivity {
                         "Ficção científica, Ficção distópica","ic_1984"));
 
         books.add(new Book("A Divina Comédia", "Dante Alighieri", 1321,
-                "Poesia épica",""));
+                "Poesia épica","ic_a_divina_comedia"));
 
         books.add(new Book("Senhor do Anéis", "J. R. R. Tolkien", 1954,
-                "Alta fantasia",""));
+                "Alta fantasia","ic_o_senhor_dos_aneis"));
 
         books.add(new Book("Hamlet", "William Shakespeare", 1603,
-                "Tragédia, Drama",""));
+                "Tragédia, Drama","ic_hamlet"));
 
         books.add(new Book("Admirável Mundo Novo", "Aldous Huxley", 1932,
-                "Romance, Ficção científica, Ficção distópica",""));
+                "Romance, Ficção científica, Ficção distópica","ic_admiravel_mundo_novo"));
 
         books.add(new Book("O Coração das Trevas", "Joseph Conrad", 1902,
-                "Novela, Roman à clef",""));
+                "Novela, Roman à clef","ic_o_coracao_das_trevas"));
 
         books.add(new Book("Dom Casmurro", "Machado de Assis", 1899,
-                "Romance,Realismo psicológico",""));
+                "Romance,Realismo psicológico","ic_dom_casmurro"));
 
         books.add(new Book("O Príncipe", "Nicolau Maquiavel", 1532,
-                "Não ficção, Ficção Política",""));
+                "Não ficção, Ficção Política","ic_o_principe"));
 
         books.add(new Book("Um Estudo em Vermelho", "Arthur Conan Doyle", 1887,
-                "Mistério, Ficção policial",""));
+                "Mistério, Ficção policial","ic_um_estudo_em_vermelho"));
 
         books.add(new Book("Os Sofrimentos do Jovem Werther", "Johann Wolfgang von Goethe", 1986,
-                "Romance epistolar, Ficção, Livro didático",""));
+                "Romance epistolar, Ficção, Livro didático","ic_os_sofrimentos_do_jovem_werther"));
 
         return books;
 
